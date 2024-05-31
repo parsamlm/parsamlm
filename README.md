@@ -1,5 +1,13 @@
-## Statistics
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Parsamlm&theme=tokyonight_duo&hide_border=true&border_radius=0" alt="Parsamlm Github Statistics" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=parsamlm&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 </div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=parsamlm&color=brightgreen" alt="parsamlm" />
+</p>
+<p align="center">
+<a href="https://parsamlm.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Parsamlm.com-blue?style=flat&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/parsamlm/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Parsamlm-blue?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/11431923/parsamlm" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Parsamlm-blue?style=flat&logo=stackoverflow"></a>
+<a href="mailto:parsamlm@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-Parsamlm@outlook.com-blue?style=flat&logo=gmail"></a>
+</p>
