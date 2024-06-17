@@ -1,5 +1,4 @@
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Parsamlm&theme=tokyonight_duo&hide_border=true&border_radius=0" alt="Parsamlm Github Statistics" />
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parsamlm&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 </div>
 <p align="center">
