@@ -3,6 +3,7 @@
 </div>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=parsamlm&color=brightgreen" alt="parsamlm" />
+<a href="https://www.codewars.com/users/Parsamlm/"><img alt="CodeWars" src="https://www.codewars.com/users/Parsamlm/badges/micro"></a>
 </p>
 <p align="center">
 <a href="https://parsamlm.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-Parsamlm.com-blue?style=flat&logo=google-chrome"></a>
